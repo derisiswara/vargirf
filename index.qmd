@@ -1,0 +1,8 @@
+---
+title: Generating Generalized Impulse Response Functions (GIRFs) Using EViews and R for Measuring the Financial Transmission of Shocks
+subtitle: Research Assistance
+authors: Deri Siswara
+---
+
+## Set Up
+
